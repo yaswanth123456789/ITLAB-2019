@@ -1,0 +1,26 @@
+p {
+color:red;
+border-style:dotted;
+border-width:4px;
+border-color:red;
+text-align:center;
+}
+p.one {
+color:green;
+}
+#para1 {
+color:blue;
+}
+body {
+background-color:black;
+background-image: url("image.jpeg");
+background-repeat:repeat-y;
+}
+p.t {
+border-width:10px;
+border-color:green;
+border-style:solid;
+}
+h1 {
+margin:25px 50px 75px 20px;
+}
